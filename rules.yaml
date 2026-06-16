@@ -1,4 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,linux.do
-  - DOMAIN,services.googleapis.cn
-  - DOMAIN,assets.fanart.tv
+  - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,assets.fanart.tv
+  - DOMAIN-SUFFIX,mikanani.me
