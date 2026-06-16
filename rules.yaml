@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN,services.googleapis.cn
+  - DOMAIN,assets.fanart.tv
