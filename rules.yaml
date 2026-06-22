@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,services.googleapis.cn
   - DOMAIN-SUFFIX,assets.fanart.tv
   - DOMAIN-SUFFIX,mikanani.me
+  - DOMAIN-SUFFIX,image.tmdb.org
