@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,assets.fanart.tv
   - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,image.tmdb.org
+  - DOMAIN-SUFFIX,api.moviedb.org
