@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,api.deeplx.org
   - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,hdslb.com
