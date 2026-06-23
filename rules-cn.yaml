@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,rainplay.cn
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN,api.deeplx.org
+  - DOMAIN-SUFFIX,baidu.com
