@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,image.tmdb.org
   - DOMAIN-SUFFIX,api.moviedb.org
+  - DOMAIN-SUFFIX,googletagmanager.com
