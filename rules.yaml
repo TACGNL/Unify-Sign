@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,api.moviedb.org
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,api.themoviedb.org
