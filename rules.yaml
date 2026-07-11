@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,api.themoviedb.org
   - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,release-assets.githubusercontent.com
