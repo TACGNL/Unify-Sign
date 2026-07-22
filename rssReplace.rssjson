@@ -1,4 +1,8 @@
-{"rss_subscriptions": ["https://mikanani.me/RSS/MyBangumi?token=xxxx"],"replacement_rules": [
+{
+  "rss_subscriptions": [
+    "https://mikanani.me/RSS/MyBangumi?token=a3Yq7kwBH%2bCdlw6OLZGhHA%3d%3d"
+  ],
+  "replacement_rules": [
     {
       "name": "mikanani torrent 转磁力",
       "type": "regex",
