@@ -6,7 +6,7 @@
     {
       "name": "mikanani torrent 转磁力",
       "type": "regex",
-      "find": "https://mikanani\\.me/Download/([a-f0-9]{40})\\.torrent",
+      "find": "https://mikanani\\.me/Download/\\d{8}/([0-9a-fA-F]+)\\.torrent",
       "replace": "magnet:?xt=urn:btih:$1",
       "enable": true
     }
