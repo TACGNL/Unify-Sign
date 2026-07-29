@@ -11,3 +11,5 @@ payload:
   - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,freecloud.ltd
   - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
+  - DOMAIN-SUFFIX,edge.microsoft.com
