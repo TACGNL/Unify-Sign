@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,release-assets.githubusercontent.com
   - DOMAIN-SUFFIX,bgm.tv
+  - DOMAIN-SUFFIX,api.telegram.org
